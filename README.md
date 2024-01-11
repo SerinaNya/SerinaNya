@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ✨ This is SerinaNya! ✨  
 - 🐍 Python is BEST!
 - live in Shanghai!
-- A personal developer!
+- A individual developer!
